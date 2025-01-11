@@ -1,0 +1,3 @@
+[submodule "nginx/nginx-basics"]
+	path = nginx/nginx-basics
+	url = https://github.com/DhairyaHans/nginx-basics.git
